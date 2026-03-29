@@ -23,6 +23,9 @@ The core focus is on **Efficient AI**: maximizing detection accuracy (mAP) while
 [![Runtime: PyTorch](https://img.shields.io/badge/Runtime-PyTorch-EE4C2C.svg)](https://pytorch.org/)
 [![Export: ONNX](https://img.shields.io/badge/Export-ONNX-005AD4.svg)](https://onnx.ai/)
 
+
+### DataSet Visualization
+![Detection Results](data.png)
 ## 🛠 Technical Specifications
 
 ### 1. Model Architecture
