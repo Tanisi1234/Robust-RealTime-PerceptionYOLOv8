@@ -25,7 +25,7 @@ The core focus is on **Efficient AI**: maximizing detection accuracy (mAP) while
 
 
 ### DataSet Visualization
-![Detection Results](data.png)
+![Detection Results](data)
 ## 🛠 Technical Specifications
 
 ### 1. Model Architecture
